@@ -1,5 +1,5 @@
-# NLP-with-BERT
-<h2 align=center>Fine Tune BERT FOR TEXT CLASSIFICATION WITH TENSORFLOW</h2>
+<h2 align=center># NLP-with-BERT</h2>
+<h2 align=center>Fine-Tune BERT FOR TEXT CLASSIFICATION WITH TENSORFLOW</h2>
 
 **CONTENTS**
 - **[1]()**: Download and Import the Quora Insincere Questions Dataset
