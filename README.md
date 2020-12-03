@@ -2,6 +2,7 @@
 <h2 align=center> Fine-Tune BERT FOR TEXT CLASSIFICATION WITH TENSORFLOW</h2>
 
 Thia project on fine-tuning a Bidirectional Transformers for Language Understanding (BERT) model for text classification with TensorFlow. This project includes preprocess and tokenize data for BERT classification, build TensorFlow input pipelines for text data with the tf.data API, and train and evaluate a fine-tuned BERT model for text classification with TensorFlow 2 and TensorFlow Hub. 
+
 **CONTENTS (program structure)**
 - **[1]()**: Download and Import the Quora Insincere Questions Dataset
 - **[2]()**: Create tf.data.Datasets for Training and Evaluation
